@@ -1,13 +1,6 @@
 {
   "orders": [
     {
-      "id": 1,
-      "lastName": "Csizmadia",
-      "firstName": "Zsombor",
-      "email": "zsombor.csizmadia01@gmial.com",
-      "address": "Vityó utca 7."
-    },
-    {
       "id": 2,
       "lastName": "Csizmadia",
       "firstName": "Adolf",
